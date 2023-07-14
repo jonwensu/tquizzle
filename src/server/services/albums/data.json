@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1440933849",
+    "name": "Reputation",
+    "trackCount": 15,
+    "isSingle": false,
+    "releaseDate": "2017-11-10",
+    "recordLabel": "Big Machine Records, LLC",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ba/16/42/ba1642a8-0c75-a83d-3b9c-8c2eba140dc5/00843930033133.rgb.jpg/6000x6000bb.jpg"
+  },
+  {
+    "id": "1440935467",
+    "name": "1989",
+    "trackCount": 13,
+    "isSingle": false,
+    "releaseDate": "2014-10-27",
+    "recordLabel": "Big Machine Records, LLC",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/09/01/16/090116af-770e-23da-21a9-6bd30782eda5/00843930013562.rgb.jpg/1400x1400bb.jpg"
+  },
+  {
+    "id": "1468058165",
+    "name": "Lover",
+    "trackCount": 18,
+    "isSingle": false,
+    "releaseDate": "2019-08-23",
+    "recordLabel": "Taylor Swift",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/3900x3900bb.jpg"
+  },
+  {
+    "id": "1524793738",
+    "name": "Folklore",
+    "trackCount": 16,
+    "isSingle": false,
+    "releaseDate": "2020-07-24",
+    "recordLabel": "Taylor Swift",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7c/04/ba/7c04ba17-2ff8-21b3-0ac0-7d141f86e924/20UMGIM64216.rgb.jpg/3000x3000bb.jpg"
+  },
+  {
+    "id": "1544268281",
+    "name": "Evermore",
+    "trackCount": 15,
+    "isSingle": false,
+    "releaseDate": "2020-12-11",
+    "recordLabel": "Taylor Swift",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bd/dd/54/bddd543b-4e0f-007b-1398-5fef90b963c3/20UM1IM14847.rgb.jpg/3000x3000bb.jpg"
+  },
+  {
+    "id": "1552791073",
+    "name": "Fearless",
+    "trackCount": 26,
+    "isSingle": false,
+    "releaseDate": "2021-04-09",
+    "recordLabel": "Taylor Swift",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c3/d0/1c/c3d01c88-73e7-187e-fd62-e1744de979a6/21UMGIM09915.rgb.jpg/3000x3000bb.jpg"
+  },
+  {
+    "id": "1595423133",
+    "name": "Red",
+    "trackCount": 62,
+    "isSingle": false,
+    "releaseDate": "2021-11-12",
+    "recordLabel": "Taylor Swift",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/38/9b/15389bf4-8074-06c3-11ee-655b5453af68/21UM1IM25046.rgb.jpg/3000x3000bb.jpg"
+  },
+  {
+    "id": "1649434004",
+    "name": "Midnights",
+    "trackCount": 14,
+    "isSingle": false,
+    "releaseDate": "2022-10-21",
+    "recordLabel": "Taylor Swift",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3d/01/f2/3d01f2e5-5a08-835f-3d30-d031720b2b80/22UM1IM07364.rgb.jpg/3000x3000bb.jpg"
+  },
+  {
+    "id": "1690839749",
+    "name": "Speak Now",
+    "trackCount": 23,
+    "isSingle": false,
+    "releaseDate": "2023-07-07",
+    "recordLabel": "Taylor Swift",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9f/3c/0a/9f3c0a60-f9e0-a34e-60e5-0be1f182896b/23UMGIM63932.rgb.jpg/3000x3000bb.jpg"
+  }
+]
